@@ -1,0 +1,25 @@
+// Fonts
+@import url(https://fonts.googleapis.com/css?family=Raleway:300,400,600);
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+@import "sass/progress-wizard";
+
+
+.footi {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  height: 150px;
+  background-color: #3540ee;
+}
+
+.footi p, h3 {
+  color: white;
+  font-size: 20px;
+}

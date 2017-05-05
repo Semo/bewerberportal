@@ -1,0 +1,84 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "css-progress-wizard",
+        "scope": null,
+        "escapedName": "css-progress-wizard",
+        "name": "css-progress-wizard",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/home/semo/webdev/bewerber"
+    ]
+  ],
+  "_from": "css-progress-wizard@latest",
+  "_id": "css-progress-wizard@0.0.9",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/css-progress-wizard",
+  "_nodeVersion": "5.2.0",
+  "_npmUser": {
+    "name": "halaei",
+    "email": "hamid.a85@gmail.com"
+  },
+  "_npmVersion": "3.3.12",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "css-progress-wizard",
+    "scope": null,
+    "escapedName": "css-progress-wizard",
+    "name": "css-progress-wizard",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/css-progress-wizard/-/css-progress-wizard-0.0.9.tgz",
+  "_shasum": "6f0cc6afc31f04ed63d98dfe9c5d4487a0ab3cf4",
+  "_shrinkwrap": null,
+  "_spec": "css-progress-wizard",
+  "_where": "/home/semo/webdev/bewerber",
+  "bugs": {
+    "url": "https://github.com/halaei/css-progress-wizard/issues"
+  },
+  "dependencies": {},
+  "description": "[![GPL 3 Badge](http://img.shields.io/badge/license-GPL+3-green.svg)](https://raw.githubusercontent.com/halaei/css-progress-wizard/master/LICENSE) [![NPM Version](https://badge.fury.io/js/css-progress-wizard.svg)](https://www.npmjs.com/package/css-progres",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-compress": "0.0.8",
+    "gulp-concat": "^2.6.0",
+    "gulp-minify-css": "^1.2.3",
+    "gulp-sass": "^2.1.1"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "6f0cc6afc31f04ed63d98dfe9c5d4487a0ab3cf4",
+    "tarball": "https://registry.npmjs.org/css-progress-wizard/-/css-progress-wizard-0.0.9.tgz"
+  },
+  "files": [
+    "css",
+    "sass"
+  ],
+  "gitHead": "5589eb0430b4cfec340b58cc7f2f0eb6b69c9660",
+  "homepage": "https://github.com/halaei/css-progress-wizard#readme",
+  "license": "GPL-3.0",
+  "maintainers": [
+    {
+      "name": "halaei",
+      "email": "hamid.a85@gmail.com"
+    }
+  ],
+  "name": "css-progress-wizard",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/halaei/css-progress-wizard.git"
+  },
+  "scripts": {},
+  "version": "0.0.9"
+}
