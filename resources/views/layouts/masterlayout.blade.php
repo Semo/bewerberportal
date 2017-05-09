@@ -94,11 +94,12 @@
 
     </div>
     <div class="row">
-        <div class="col-md-2"><a href="/applic">Bewerberliste</a>
+        <div class="col-md-2">
+<!--            <a href="/applic">Bewerberliste</a>-->
             <br>
             <a href="/about">Über diese Site</a><br>
             <a href="/job">Jobliste</a><br>
-            <a href="/job/1">Job 1</a><br>
+<!--            <a href="/job/1">Job 1</a><br>-->
             <a href="/applic">Bewerberliste</a><br>
             <a href="/applic/1">Bewerber 1</a></div>
         <div class="col-md-8">
@@ -106,7 +107,8 @@
             @yield('content')
             {{--@show--}}
         </div>
-        <div class="col-md-2">Spalte rechts</div>
+<!--        Spalte rechts-->
+        <div class="col-md-2"></div>
     </div>
 
 

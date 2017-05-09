@@ -2,9 +2,6 @@
 
 @section('content')
 
-    <?php $stuff = 1; ?>
-
-    <p>{{$stuff}}</p>
 
     <table class="table table-hover">
         <thead>
@@ -12,6 +9,7 @@
             <th>Referenz</th>
             <th>Laufbahn</th>
             <th>Funktion</th>
+            <th>Ansehen</th>
         </tr>
         </thead>
 
@@ -22,6 +20,7 @@
                 <th scope="row">{{ $jobitem->job_reference }}</th>
                 <td>{{ $jobitem->career }}</td>
                 <td>{{ $jobitem->remit }}</td>
+                <td><a href="job/{{ $jobitem->id }}">Ansehen</a></td>
             </tr>
         @endforeach
         </tbody>
